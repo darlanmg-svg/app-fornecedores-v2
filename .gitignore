@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+buscas_log.csv
+streamlit_buscas.log
