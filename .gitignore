@@ -5,3 +5,4 @@ venv/
 .env
 buscas_log.csv
 streamlit_buscas.log
+.streamlit/secrets.toml

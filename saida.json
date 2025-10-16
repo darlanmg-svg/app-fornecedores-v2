@@ -1,0 +1,1083 @@
+{
+  "unificado": {
+    "cnpj": "02558157000162",
+    "razao_social": "TELEFONICA BRASIL S.A.",
+    "nome_fantasia": null,
+    "abertura": "1998-06-04",
+    "natureza_juridica": "Sociedade Anônima Aberta",
+    "situacao": "2",
+    "situacao_data": "2018-11-30",
+    "capital_social": 60071416000,
+    "cnae_principal": {
+      "codigo": 6110801,
+      "descricao": "Serviços de telefonia fixa comutada - STFC"
+    },
+    "cnaes_secundarios": [
+      {
+        "codigo": 3314710,
+        "descricao": "Manutenção e reparação de máquinas e equipamentos para uso geral não especificados anteriormente"
+      },
+      {
+        "codigo": 3329599,
+        "descricao": "Instalação de outros equipamentos não especificados anteriormente"
+      },
+      {
+        "codigo": 4221904,
+        "descricao": "Construção de estações e redes de telecomunicações"
+      },
+      {
+        "codigo": 4221905,
+        "descricao": "Manutenção de estações e redes de telecomunicações"
+      },
+      {
+        "codigo": 4321500,
+        "descricao": "Instalação e manutenção elétrica"
+      },
+      {
+        "codigo": 4751201,
+        "descricao": "Comércio varejista especializado de equipamentos e suprimentos de informática"
+      },
+      {
+        "codigo": 6110803,
+        "descricao": "Serviços de comunicação multimídia - SCM"
+      },
+      {
+        "codigo": 6120599,
+        "descricao": "Serviços de telecomunicações sem fio não especificados anteriormente"
+      },
+      {
+        "codigo": 6190699,
+        "descricao": "Outras atividades de telecomunicações não especificadas anteriormente"
+      },
+      {
+        "codigo": 6203100,
+        "descricao": "Desenvolvimento e licenciamento de programas de computador não-customizáveis"
+      },
+      {
+        "codigo": 6204000,
+        "descricao": "Consultoria em tecnologia da informação"
+      },
+      {
+        "codigo": 6209100,
+        "descricao": "Suporte técnico, manutenção e outros serviços em tecnologia da informação"
+      },
+      {
+        "codigo": 6311900,
+        "descricao": "Tratamento de dados, provedores de serviços de aplicação e serviços de hospedagem na internet"
+      },
+      {
+        "codigo": 6319400,
+        "descricao": "Portais, provedores de conteúdo e outros serviços de informação na internet"
+      },
+      {
+        "codigo": 6399200,
+        "descricao": "Outras atividades de prestação de serviços de informação não especificadas anteriormente"
+      },
+      {
+        "codigo": 7020400,
+        "descricao": "Atividades de consultoria em gestão empresarial, exceto consultoria técnica específica"
+      },
+      {
+        "codigo": 7112000,
+        "descricao": "Serviços de engenharia"
+      },
+      {
+        "codigo": 7490104,
+        "descricao": "Atividades de intermediação e agenciamento de serviços e negócios em geral, exceto imobiliários"
+      },
+      {
+        "codigo": 7739099,
+        "descricao": "Aluguel de outras máquinas e equipamentos comerciais e industriais não especificados anteriormente, sem operador"
+      },
+      {
+        "codigo": 7740300,
+        "descricao": "Gestão de ativos intangíveis não-financeiros"
+      },
+      {
+        "codigo": 8020001,
+        "descricao": "Atividades de monitoramento de sistemas de segurança eletrônico"
+      },
+      {
+        "codigo": 8291100,
+        "descricao": "Atividades de cobranças e informações cadastrais"
+      },
+      {
+        "codigo": 8299799,
+        "descricao": "Outras atividades de serviços prestados principalmente às empresas não especificadas anteriormente"
+      },
+      {
+        "codigo": 9511800,
+        "descricao": "Reparação e manutenção de computadores e de equipamentos periféricos"
+      },
+      {
+        "codigo": 9512600,
+        "descricao": "Reparação e manutenção de equipamentos de comunicação"
+      },
+      {
+        "codigo": 9521500,
+        "descricao": "Reparação e manutenção de equipamentos eletroeletrônicos de uso pessoal e doméstico"
+      },
+      {
+        "codigo": "33.14-7-10",
+        "descricao": "Manutenção e reparação de máquinas e equipamentos para uso geral não especificados anteriormente"
+      },
+      {
+        "codigo": "33.29-5-99",
+        "descricao": "Instalação de outros equipamentos não especificados anteriormente"
+      },
+      {
+        "codigo": "42.21-9-04",
+        "descricao": "Construção de estações e redes de telecomunicações"
+      },
+      {
+        "codigo": "42.21-9-05",
+        "descricao": "Manutenção de estações e redes de telecomunicações"
+      },
+      {
+        "codigo": "43.21-5-00",
+        "descricao": "Instalação e manutenção elétrica"
+      },
+      {
+        "codigo": "47.51-2-01",
+        "descricao": "Comércio varejista especializado de equipamentos e suprimentos de informática"
+      },
+      {
+        "codigo": "61.10-8-03",
+        "descricao": "Serviços de comunicação multimídia - SCM"
+      },
+      {
+        "codigo": "61.20-5-99",
+        "descricao": "Serviços de telecomunicações sem fio não especificados anteriormente"
+      },
+      {
+        "codigo": "61.90-6-99",
+        "descricao": "Outras atividades de telecomunicações não especificadas anteriormente"
+      },
+      {
+        "codigo": "62.03-1-00",
+        "descricao": "Desenvolvimento e licenciamento de programas de computador não-customizáveis"
+      },
+      {
+        "codigo": "62.04-0-00",
+        "descricao": "Consultoria em tecnologia da informação"
+      },
+      {
+        "codigo": "62.09-1-00",
+        "descricao": "Suporte técnico, manutenção e outros serviços em tecnologia da informação"
+      },
+      {
+        "codigo": "63.11-9-00",
+        "descricao": "Tratamento de dados, provedores de serviços de aplicação e serviços de hospedagem na internet"
+      },
+      {
+        "codigo": "63.19-4-00",
+        "descricao": "Portais, provedores de conteúdo e outros serviços de informação na internet"
+      },
+      {
+        "codigo": "63.99-2-00",
+        "descricao": "Outras atividades de prestação de serviços de informação não especificadas anteriormente"
+      },
+      {
+        "codigo": "70.20-4-00",
+        "descricao": "Atividades de consultoria em gestão empresarial, exceto consultoria técnica específica"
+      },
+      {
+        "codigo": "71.12-0-00",
+        "descricao": "Serviços de engenharia"
+      },
+      {
+        "codigo": "74.90-1-04",
+        "descricao": "Atividades de intermediação e agenciamento de serviços e negócios em geral, exceto imobiliários"
+      },
+      {
+        "codigo": "77.39-0-99",
+        "descricao": "Aluguel de outras máquinas e equipamentos comerciais e industriais não especificados anteriormente, sem operador"
+      },
+      {
+        "codigo": "77.40-3-00",
+        "descricao": "Gestão de ativos intangíveis não-financeiros"
+      },
+      {
+        "codigo": "80.20-0-01",
+        "descricao": "Atividades de monitoramento de sistemas de segurança eletrônico"
+      },
+      {
+        "codigo": "82.91-1-00",
+        "descricao": "Atividades de cobranças e informações cadastrais"
+      },
+      {
+        "codigo": "82.99-7-99",
+        "descricao": "Outras atividades de serviços prestados principalmente às empresas não especificadas anteriormente"
+      },
+      {
+        "codigo": "95.11-8-00",
+        "descricao": "Reparação e manutenção de computadores e de equipamentos periféricos"
+      },
+      {
+        "codigo": "95.12-6-00",
+        "descricao": "Reparação e manutenção de equipamentos de comunicação"
+      },
+      {
+        "codigo": "95.21-5-00",
+        "descricao": "Reparação e manutenção de equipamentos eletroeletrônicos de uso pessoal e doméstico"
+      }
+    ],
+    "endereco": {
+      "logradouro": "ENGENHEIRO LUIZ CARLOS BERRINI",
+      "numero": "1376",
+      "complemento": null,
+      "bairro": "CIDADE MONCOES",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "cep": "04571936"
+    },
+    "telefones": [
+      {
+        "numero": "1134304532"
+      },
+      {
+        "numero": "(11) 3430-4532"
+      }
+    ],
+    "email": "cadastro.fiscal.br@telefonica.com",
+    "qsa": [
+      {
+        "nome": "ALEX MARTINS SALGADO",
+        "qualificacao": "Diretor"
+      },
+      {
+        "nome": "BRENO RODRIGO PACHECO DE OLIVEIRA",
+        "qualificacao": "Diretor"
+      },
+      {
+        "nome": "CHRISTIAN MAUAD GEBARA",
+        "qualificacao": "Presidente"
+      },
+      {
+        "nome": "DAVID MELCON SANCHEZ FRIERA",
+        "qualificacao": "Diretor"
+      },
+      {
+        "nome": "RICARDO GUILLERMO HOBBS",
+        "qualificacao": "Diretor"
+      },
+      {
+        "nome": "BRENO RODRIGO PACHECO DE OLIVEIRA",
+        "qualificacao": "10-Diretor"
+      },
+      {
+        "nome": "DAVID MELCON SANCHEZ FRIERA",
+        "qualificacao": "10-Diretor"
+      },
+      {
+        "nome": "ALEX MARTINS SALGADO",
+        "qualificacao": "10-Diretor"
+      },
+      {
+        "nome": "CHRISTIAN MAUAD GEBARA",
+        "qualificacao": "16-Presidente"
+      },
+      {
+        "nome": "RICARDO GUILLERMO HOBBS",
+        "qualificacao": "10-Diretor"
+      }
+    ]
+  },
+  "normalizados": [
+    {
+      "fonte": "minha_receita",
+      "cnpj": "02558157000162",
+      "razao_social": "TELEFONICA BRASIL S.A.",
+      "nome_fantasia": "",
+      "abertura": "1998-06-04",
+      "natureza_juridica": "Sociedade Anônima Aberta",
+      "situacao": "2",
+      "situacao_data": "2018-11-30",
+      "capital_social": 60071416000,
+      "cnae_principal": {
+        "codigo": 6110801,
+        "descricao": "Serviços de telefonia fixa comutada - STFC"
+      },
+      "cnaes_secundarios": [
+        {
+          "codigo": 3314710,
+          "descricao": "Manutenção e reparação de máquinas e equipamentos para uso geral não especificados anteriormente"
+        },
+        {
+          "codigo": 3329599,
+          "descricao": "Instalação de outros equipamentos não especificados anteriormente"
+        },
+        {
+          "codigo": 4221904,
+          "descricao": "Construção de estações e redes de telecomunicações"
+        },
+        {
+          "codigo": 4221905,
+          "descricao": "Manutenção de estações e redes de telecomunicações"
+        },
+        {
+          "codigo": 4321500,
+          "descricao": "Instalação e manutenção elétrica"
+        },
+        {
+          "codigo": 4751201,
+          "descricao": "Comércio varejista especializado de equipamentos e suprimentos de informática"
+        },
+        {
+          "codigo": 6110803,
+          "descricao": "Serviços de comunicação multimídia - SCM"
+        },
+        {
+          "codigo": 6120599,
+          "descricao": "Serviços de telecomunicações sem fio não especificados anteriormente"
+        },
+        {
+          "codigo": 6190699,
+          "descricao": "Outras atividades de telecomunicações não especificadas anteriormente"
+        },
+        {
+          "codigo": 6203100,
+          "descricao": "Desenvolvimento e licenciamento de programas de computador não-customizáveis"
+        },
+        {
+          "codigo": 6204000,
+          "descricao": "Consultoria em tecnologia da informação"
+        },
+        {
+          "codigo": 6209100,
+          "descricao": "Suporte técnico, manutenção e outros serviços em tecnologia da informação"
+        },
+        {
+          "codigo": 6311900,
+          "descricao": "Tratamento de dados, provedores de serviços de aplicação e serviços de hospedagem na internet"
+        },
+        {
+          "codigo": 6319400,
+          "descricao": "Portais, provedores de conteúdo e outros serviços de informação na internet"
+        },
+        {
+          "codigo": 6399200,
+          "descricao": "Outras atividades de prestação de serviços de informação não especificadas anteriormente"
+        },
+        {
+          "codigo": 7020400,
+          "descricao": "Atividades de consultoria em gestão empresarial, exceto consultoria técnica específica"
+        },
+        {
+          "codigo": 7112000,
+          "descricao": "Serviços de engenharia"
+        },
+        {
+          "codigo": 7490104,
+          "descricao": "Atividades de intermediação e agenciamento de serviços e negócios em geral, exceto imobiliários"
+        },
+        {
+          "codigo": 7739099,
+          "descricao": "Aluguel de outras máquinas e equipamentos comerciais e industriais não especificados anteriormente, sem operador"
+        },
+        {
+          "codigo": 7740300,
+          "descricao": "Gestão de ativos intangíveis não-financeiros"
+        },
+        {
+          "codigo": 8020001,
+          "descricao": "Atividades de monitoramento de sistemas de segurança eletrônico"
+        },
+        {
+          "codigo": 8291100,
+          "descricao": "Atividades de cobranças e informações cadastrais"
+        },
+        {
+          "codigo": 8299799,
+          "descricao": "Outras atividades de serviços prestados principalmente às empresas não especificadas anteriormente"
+        },
+        {
+          "codigo": 9511800,
+          "descricao": "Reparação e manutenção de computadores e de equipamentos periféricos"
+        },
+        {
+          "codigo": 9512600,
+          "descricao": "Reparação e manutenção de equipamentos de comunicação"
+        },
+        {
+          "codigo": 9521500,
+          "descricao": "Reparação e manutenção de equipamentos eletroeletrônicos de uso pessoal e doméstico"
+        }
+      ],
+      "endereco": {
+        "logradouro": "ENGENHEIRO LUIZ CARLOS BERRINI",
+        "numero": "1376",
+        "complemento": "",
+        "bairro": "CIDADE MONCOES",
+        "municipio": "SAO PAULO",
+        "uf": "SP",
+        "cep": "04571936"
+      },
+      "telefones": [
+        "1134304532"
+      ],
+      "email": null,
+      "qsa": [
+        {
+          "nome": "ALEX MARTINS SALGADO",
+          "qualificacao": "Diretor"
+        },
+        {
+          "nome": "BRENO RODRIGO PACHECO DE OLIVEIRA",
+          "qualificacao": "Diretor"
+        },
+        {
+          "nome": "CHRISTIAN MAUAD GEBARA",
+          "qualificacao": "Presidente"
+        },
+        {
+          "nome": "DAVID MELCON SANCHEZ FRIERA",
+          "qualificacao": "Diretor"
+        },
+        {
+          "nome": "RICARDO GUILLERMO HOBBS",
+          "qualificacao": "Diretor"
+        }
+      ]
+    },
+    {
+      "fonte": "receitaws",
+      "cnpj": "02558157000162",
+      "razao_social": "TELEFONICA BRASIL S.A.",
+      "nome_fantasia": "",
+      "abertura": "04/06/1998",
+      "natureza_juridica": "204-6 - Sociedade Anônima Aberta",
+      "situacao": "ATIVA",
+      "situacao_data": "30/11/2018",
+      "capital_social": "60071415865.09",
+      "cnae_principal": {
+        "codigo": "61.10-8-01",
+        "descricao": "Serviços de telefonia fixa comutada - STFC"
+      },
+      "cnaes_secundarios": [
+        {
+          "codigo": "33.14-7-10",
+          "descricao": "Manutenção e reparação de máquinas e equipamentos para uso geral não especificados anteriormente"
+        },
+        {
+          "codigo": "33.29-5-99",
+          "descricao": "Instalação de outros equipamentos não especificados anteriormente"
+        },
+        {
+          "codigo": "42.21-9-04",
+          "descricao": "Construção de estações e redes de telecomunicações"
+        },
+        {
+          "codigo": "42.21-9-05",
+          "descricao": "Manutenção de estações e redes de telecomunicações"
+        },
+        {
+          "codigo": "43.21-5-00",
+          "descricao": "Instalação e manutenção elétrica"
+        },
+        {
+          "codigo": "47.51-2-01",
+          "descricao": "Comércio varejista especializado de equipamentos e suprimentos de informática"
+        },
+        {
+          "codigo": "61.10-8-03",
+          "descricao": "Serviços de comunicação multimídia - SCM"
+        },
+        {
+          "codigo": "61.20-5-99",
+          "descricao": "Serviços de telecomunicações sem fio não especificados anteriormente"
+        },
+        {
+          "codigo": "61.90-6-99",
+          "descricao": "Outras atividades de telecomunicações não especificadas anteriormente"
+        },
+        {
+          "codigo": "62.03-1-00",
+          "descricao": "Desenvolvimento e licenciamento de programas de computador não-customizáveis"
+        },
+        {
+          "codigo": "62.04-0-00",
+          "descricao": "Consultoria em tecnologia da informação"
+        },
+        {
+          "codigo": "62.09-1-00",
+          "descricao": "Suporte técnico, manutenção e outros serviços em tecnologia da informação"
+        },
+        {
+          "codigo": "63.11-9-00",
+          "descricao": "Tratamento de dados, provedores de serviços de aplicação e serviços de hospedagem na internet"
+        },
+        {
+          "codigo": "63.19-4-00",
+          "descricao": "Portais, provedores de conteúdo e outros serviços de informação na internet"
+        },
+        {
+          "codigo": "63.99-2-00",
+          "descricao": "Outras atividades de prestação de serviços de informação não especificadas anteriormente"
+        },
+        {
+          "codigo": "70.20-4-00",
+          "descricao": "Atividades de consultoria em gestão empresarial, exceto consultoria técnica específica"
+        },
+        {
+          "codigo": "71.12-0-00",
+          "descricao": "Serviços de engenharia"
+        },
+        {
+          "codigo": "74.90-1-04",
+          "descricao": "Atividades de intermediação e agenciamento de serviços e negócios em geral, exceto imobiliários"
+        },
+        {
+          "codigo": "77.39-0-99",
+          "descricao": "Aluguel de outras máquinas e equipamentos comerciais e industriais não especificados anteriormente, sem operador"
+        },
+        {
+          "codigo": "77.40-3-00",
+          "descricao": "Gestão de ativos intangíveis não-financeiros"
+        },
+        {
+          "codigo": "80.20-0-01",
+          "descricao": "Atividades de monitoramento de sistemas de segurança eletrônico"
+        },
+        {
+          "codigo": "82.91-1-00",
+          "descricao": "Atividades de cobranças e informações cadastrais"
+        },
+        {
+          "codigo": "82.99-7-99",
+          "descricao": "Outras atividades de serviços prestados principalmente às empresas não especificadas anteriormente"
+        },
+        {
+          "codigo": "95.11-8-00",
+          "descricao": "Reparação e manutenção de computadores e de equipamentos periféricos"
+        },
+        {
+          "codigo": "95.12-6-00",
+          "descricao": "Reparação e manutenção de equipamentos de comunicação"
+        },
+        {
+          "codigo": "95.21-5-00",
+          "descricao": "Reparação e manutenção de equipamentos eletroeletrônicos de uso pessoal e doméstico"
+        }
+      ],
+      "endereco": {
+        "logradouro": "AV ENGENHEIRO LUIZ CARLOS BERRINI",
+        "numero": "1376",
+        "complemento": "",
+        "bairro": "CIDADE MONCOES",
+        "municipio": "SAO PAULO",
+        "uf": "SP",
+        "cep": "04.571-936"
+      },
+      "telefones": [
+        "(11) 3430-4532"
+      ],
+      "email": "cadastro.fiscal.br@telefonica.com",
+      "qsa": [
+        {
+          "nome": "BRENO RODRIGO PACHECO DE OLIVEIRA",
+          "qualificacao": "10-Diretor"
+        },
+        {
+          "nome": "DAVID MELCON SANCHEZ FRIERA",
+          "qualificacao": "10-Diretor"
+        },
+        {
+          "nome": "ALEX MARTINS SALGADO",
+          "qualificacao": "10-Diretor"
+        },
+        {
+          "nome": "CHRISTIAN MAUAD GEBARA",
+          "qualificacao": "16-Presidente"
+        },
+        {
+          "nome": "RICARDO GUILLERMO HOBBS",
+          "qualificacao": "10-Diretor"
+        }
+      ]
+    }
+  ],
+  "raw": [
+    {
+      "fonte": "minha_receita",
+      "ok": true,
+      "status": 200,
+      "data": {
+        "uf": "SP",
+        "cep": "04571936",
+        "qsa": [
+          {
+            "pais": null,
+            "nome_socio": "ALEX MARTINS SALGADO",
+            "codigo_pais": null,
+            "faixa_etaria": "Entre 41 a 50 anos",
+            "cnpj_cpf_do_socio": "***046658**",
+            "qualificacao_socio": "Diretor",
+            "codigo_faixa_etaria": 5,
+            "data_entrada_sociedade": "2023-03-24",
+            "identificador_de_socio": 2,
+            "cpf_representante_legal": "***000000**",
+            "nome_representante_legal": "",
+            "codigo_qualificacao_socio": 10,
+            "qualificacao_representante_legal": "Não informada",
+            "codigo_qualificacao_representante_legal": 0
+          },
+          {
+            "pais": null,
+            "nome_socio": "BRENO RODRIGO PACHECO DE OLIVEIRA",
+            "codigo_pais": null,
+            "faixa_etaria": "Entre 41 a 50 anos",
+            "cnpj_cpf_do_socio": "***936930**",
+            "qualificacao_socio": "Diretor",
+            "codigo_faixa_etaria": 5,
+            "data_entrada_sociedade": "2011-07-04",
+            "identificador_de_socio": 2,
+            "cpf_representante_legal": "***000000**",
+            "nome_representante_legal": "",
+            "codigo_qualificacao_socio": 10,
+            "qualificacao_representante_legal": "Não informada",
+            "codigo_qualificacao_representante_legal": 0
+          },
+          {
+            "pais": null,
+            "nome_socio": "CHRISTIAN MAUAD GEBARA",
+            "codigo_pais": null,
+            "faixa_etaria": "Entre 51 a 60 anos",
+            "cnpj_cpf_do_socio": "***838628**",
+            "qualificacao_socio": "Presidente",
+            "codigo_faixa_etaria": 6,
+            "data_entrada_sociedade": "2019-01-17",
+            "identificador_de_socio": 2,
+            "cpf_representante_legal": "***000000**",
+            "nome_representante_legal": "",
+            "codigo_qualificacao_socio": 16,
+            "qualificacao_representante_legal": "Não informada",
+            "codigo_qualificacao_representante_legal": 0
+          },
+          {
+            "pais": null,
+            "nome_socio": "DAVID MELCON SANCHEZ FRIERA",
+            "codigo_pais": null,
+            "faixa_etaria": "Entre 51 a 60 anos",
+            "cnpj_cpf_do_socio": "***558708**",
+            "qualificacao_socio": "Diretor",
+            "codigo_faixa_etaria": 6,
+            "data_entrada_sociedade": "2016-04-27",
+            "identificador_de_socio": 2,
+            "cpf_representante_legal": "***000000**",
+            "nome_representante_legal": "",
+            "codigo_qualificacao_socio": 10,
+            "qualificacao_representante_legal": "Não informada",
+            "codigo_qualificacao_representante_legal": 0
+          },
+          {
+            "pais": null,
+            "nome_socio": "RICARDO GUILLERMO HOBBS",
+            "codigo_pais": null,
+            "faixa_etaria": "Entre 41 a 50 anos",
+            "cnpj_cpf_do_socio": "***791548**",
+            "qualificacao_socio": "Diretor",
+            "codigo_faixa_etaria": 5,
+            "data_entrada_sociedade": "2023-03-24",
+            "identificador_de_socio": 2,
+            "cpf_representante_legal": "***000000**",
+            "nome_representante_legal": "",
+            "codigo_qualificacao_socio": 10,
+            "qualificacao_representante_legal": "Não informada",
+            "codigo_qualificacao_representante_legal": 0
+          }
+        ],
+        "cnpj": "02558157000162",
+        "pais": null,
+        "email": null,
+        "porte": "DEMAIS",
+        "bairro": "CIDADE MONCOES",
+        "numero": "1376",
+        "ddd_fax": "1138895374",
+        "municipio": "SAO PAULO",
+        "logradouro": "ENGENHEIRO LUIZ CARLOS BERRINI",
+        "cnae_fiscal": 6110801,
+        "codigo_pais": null,
+        "complemento": "",
+        "codigo_porte": 5,
+        "razao_social": "TELEFONICA BRASIL S.A.",
+        "nome_fantasia": "",
+        "capital_social": 60071416000,
+        "ddd_telefone_1": "1134304532",
+        "ddd_telefone_2": "",
+        "opcao_pelo_mei": null,
+        "codigo_municipio": 7107,
+        "cnaes_secundarios": [
+          {
+            "codigo": 3314710,
+            "descricao": "Manutenção e reparação de máquinas e equipamentos para uso geral não especificados anteriormente"
+          },
+          {
+            "codigo": 3329599,
+            "descricao": "Instalação de outros equipamentos não especificados anteriormente"
+          },
+          {
+            "codigo": 4221904,
+            "descricao": "Construção de estações e redes de telecomunicações"
+          },
+          {
+            "codigo": 4221905,
+            "descricao": "Manutenção de estações e redes de telecomunicações"
+          },
+          {
+            "codigo": 4321500,
+            "descricao": "Instalação e manutenção elétrica"
+          },
+          {
+            "codigo": 4751201,
+            "descricao": "Comércio varejista especializado de equipamentos e suprimentos de informática"
+          },
+          {
+            "codigo": 6110803,
+            "descricao": "Serviços de comunicação multimídia - SCM"
+          },
+          {
+            "codigo": 6120599,
+            "descricao": "Serviços de telecomunicações sem fio não especificados anteriormente"
+          },
+          {
+            "codigo": 6190699,
+            "descricao": "Outras atividades de telecomunicações não especificadas anteriormente"
+          },
+          {
+            "codigo": 6203100,
+            "descricao": "Desenvolvimento e licenciamento de programas de computador não-customizáveis"
+          },
+          {
+            "codigo": 6204000,
+            "descricao": "Consultoria em tecnologia da informação"
+          },
+          {
+            "codigo": 6209100,
+            "descricao": "Suporte técnico, manutenção e outros serviços em tecnologia da informação"
+          },
+          {
+            "codigo": 6311900,
+            "descricao": "Tratamento de dados, provedores de serviços de aplicação e serviços de hospedagem na internet"
+          },
+          {
+            "codigo": 6319400,
+            "descricao": "Portais, provedores de conteúdo e outros serviços de informação na internet"
+          },
+          {
+            "codigo": 6399200,
+            "descricao": "Outras atividades de prestação de serviços de informação não especificadas anteriormente"
+          },
+          {
+            "codigo": 7020400,
+            "descricao": "Atividades de consultoria em gestão empresarial, exceto consultoria técnica específica"
+          },
+          {
+            "codigo": 7112000,
+            "descricao": "Serviços de engenharia"
+          },
+          {
+            "codigo": 7490104,
+            "descricao": "Atividades de intermediação e agenciamento de serviços e negócios em geral, exceto imobiliários"
+          },
+          {
+            "codigo": 7739099,
+            "descricao": "Aluguel de outras máquinas e equipamentos comerciais e industriais não especificados anteriormente, sem operador"
+          },
+          {
+            "codigo": 7740300,
+            "descricao": "Gestão de ativos intangíveis não-financeiros"
+          },
+          {
+            "codigo": 8020001,
+            "descricao": "Atividades de monitoramento de sistemas de segurança eletrônico"
+          },
+          {
+            "codigo": 8291100,
+            "descricao": "Atividades de cobranças e informações cadastrais"
+          },
+          {
+            "codigo": 8299799,
+            "descricao": "Outras atividades de serviços prestados principalmente às empresas não especificadas anteriormente"
+          },
+          {
+            "codigo": 9511800,
+            "descricao": "Reparação e manutenção de computadores e de equipamentos periféricos"
+          },
+          {
+            "codigo": 9512600,
+            "descricao": "Reparação e manutenção de equipamentos de comunicação"
+          },
+          {
+            "codigo": 9521500,
+            "descricao": "Reparação e manutenção de equipamentos eletroeletrônicos de uso pessoal e doméstico"
+          }
+        ],
+        "natureza_juridica": "Sociedade Anônima Aberta",
+        "regime_tributario": [
+          {
+            "ano": 2015,
+            "cnpj_da_scp": null,
+            "forma_de_tributacao": "LUCRO REAL",
+            "quantidade_de_escrituracoes": 1
+          },
+          {
+            "ano": 2016,
+            "cnpj_da_scp": null,
+            "forma_de_tributacao": "LUCRO REAL",
+            "quantidade_de_escrituracoes": 1
+          },
+          {
+            "ano": 2017,
+            "cnpj_da_scp": null,
+            "forma_de_tributacao": "LUCRO REAL",
+            "quantidade_de_escrituracoes": 1
+          },
+          {
+            "ano": 2018,
+            "cnpj_da_scp": null,
+            "forma_de_tributacao": "LUCRO REAL",
+            "quantidade_de_escrituracoes": 1
+          },
+          {
+            "ano": 2019,
+            "cnpj_da_scp": null,
+            "forma_de_tributacao": "LUCRO REAL",
+            "quantidade_de_escrituracoes": 1
+          },
+          {
+            "ano": 2020,
+            "cnpj_da_scp": null,
+            "forma_de_tributacao": "LUCRO REAL",
+            "quantidade_de_escrituracoes": 1
+          },
+          {
+            "ano": 2021,
+            "cnpj_da_scp": null,
+            "forma_de_tributacao": "LUCRO REAL",
+            "quantidade_de_escrituracoes": 1
+          },
+          {
+            "ano": 2022,
+            "cnpj_da_scp": null,
+            "forma_de_tributacao": "LUCRO REAL",
+            "quantidade_de_escrituracoes": 1
+          },
+          {
+            "ano": 2023,
+            "cnpj_da_scp": null,
+            "forma_de_tributacao": "LUCRO REAL",
+            "quantidade_de_escrituracoes": 1
+          }
+        ],
+        "situacao_especial": "",
+        "opcao_pelo_simples": null,
+        "situacao_cadastral": 2,
+        "data_opcao_pelo_mei": null,
+        "data_exclusao_do_mei": null,
+        "cnae_fiscal_descricao": "Serviços de telefonia fixa comutada - STFC",
+        "codigo_municipio_ibge": 3550308,
+        "data_inicio_atividade": "1998-06-04",
+        "data_situacao_especial": null,
+        "data_opcao_pelo_simples": null,
+        "data_situacao_cadastral": "2018-11-30",
+        "nome_cidade_no_exterior": "",
+        "codigo_natureza_juridica": 2046,
+        "data_exclusao_do_simples": null,
+        "motivo_situacao_cadastral": 0,
+        "ente_federativo_responsavel": "",
+        "identificador_matriz_filial": 1,
+        "qualificacao_do_responsavel": 16,
+        "descricao_situacao_cadastral": "ATIVA",
+        "descricao_tipo_de_logradouro": "AVENIDA",
+        "descricao_motivo_situacao_cadastral": "SEM MOTIVO",
+        "descricao_identificador_matriz_filial": "MATRIZ"
+      },
+      "url": "https://minhareceita.org/02558157000162"
+    },
+    {
+      "fonte": "receitaws",
+      "ok": true,
+      "status": 200,
+      "data": {
+        "abertura": "04/06/1998",
+        "situacao": "ATIVA",
+        "tipo": "MATRIZ",
+        "nome": "TELEFONICA BRASIL S.A.",
+        "porte": "DEMAIS",
+        "natureza_juridica": "204-6 - Sociedade Anônima Aberta",
+        "atividade_principal": [
+          {
+            "code": "61.10-8-01",
+            "text": "Serviços de telefonia fixa comutada - STFC"
+          }
+        ],
+        "atividades_secundarias": [
+          {
+            "code": "33.14-7-10",
+            "text": "Manutenção e reparação de máquinas e equipamentos para uso geral não especificados anteriormente"
+          },
+          {
+            "code": "33.29-5-99",
+            "text": "Instalação de outros equipamentos não especificados anteriormente"
+          },
+          {
+            "code": "42.21-9-04",
+            "text": "Construção de estações e redes de telecomunicações"
+          },
+          {
+            "code": "42.21-9-05",
+            "text": "Manutenção de estações e redes de telecomunicações"
+          },
+          {
+            "code": "43.21-5-00",
+            "text": "Instalação e manutenção elétrica"
+          },
+          {
+            "code": "47.51-2-01",
+            "text": "Comércio varejista especializado de equipamentos e suprimentos de informática"
+          },
+          {
+            "code": "61.10-8-03",
+            "text": "Serviços de comunicação multimídia - SCM"
+          },
+          {
+            "code": "61.20-5-99",
+            "text": "Serviços de telecomunicações sem fio não especificados anteriormente"
+          },
+          {
+            "code": "61.90-6-99",
+            "text": "Outras atividades de telecomunicações não especificadas anteriormente"
+          },
+          {
+            "code": "62.03-1-00",
+            "text": "Desenvolvimento e licenciamento de programas de computador não-customizáveis"
+          },
+          {
+            "code": "62.04-0-00",
+            "text": "Consultoria em tecnologia da informação"
+          },
+          {
+            "code": "62.09-1-00",
+            "text": "Suporte técnico, manutenção e outros serviços em tecnologia da informação"
+          },
+          {
+            "code": "63.11-9-00",
+            "text": "Tratamento de dados, provedores de serviços de aplicação e serviços de hospedagem na internet"
+          },
+          {
+            "code": "63.19-4-00",
+            "text": "Portais, provedores de conteúdo e outros serviços de informação na internet"
+          },
+          {
+            "code": "63.99-2-00",
+            "text": "Outras atividades de prestação de serviços de informação não especificadas anteriormente"
+          },
+          {
+            "code": "70.20-4-00",
+            "text": "Atividades de consultoria em gestão empresarial, exceto consultoria técnica específica"
+          },
+          {
+            "code": "71.12-0-00",
+            "text": "Serviços de engenharia"
+          },
+          {
+            "code": "74.90-1-04",
+            "text": "Atividades de intermediação e agenciamento de serviços e negócios em geral, exceto imobiliários"
+          },
+          {
+            "code": "77.39-0-99",
+            "text": "Aluguel de outras máquinas e equipamentos comerciais e industriais não especificados anteriormente, sem operador"
+          },
+          {
+            "code": "77.40-3-00",
+            "text": "Gestão de ativos intangíveis não-financeiros"
+          },
+          {
+            "code": "80.20-0-01",
+            "text": "Atividades de monitoramento de sistemas de segurança eletrônico"
+          },
+          {
+            "code": "82.91-1-00",
+            "text": "Atividades de cobranças e informações cadastrais"
+          },
+          {
+            "code": "82.99-7-99",
+            "text": "Outras atividades de serviços prestados principalmente às empresas não especificadas anteriormente"
+          },
+          {
+            "code": "95.11-8-00",
+            "text": "Reparação e manutenção de computadores e de equipamentos periféricos"
+          },
+          {
+            "code": "95.12-6-00",
+            "text": "Reparação e manutenção de equipamentos de comunicação"
+          },
+          {
+            "code": "95.21-5-00",
+            "text": "Reparação e manutenção de equipamentos eletroeletrônicos de uso pessoal e doméstico"
+          }
+        ],
+        "qsa": [
+          {
+            "nome": "BRENO RODRIGO PACHECO DE OLIVEIRA",
+            "qual": "10-Diretor"
+          },
+          {
+            "nome": "DAVID MELCON SANCHEZ FRIERA",
+            "qual": "10-Diretor"
+          },
+          {
+            "nome": "ALEX MARTINS SALGADO",
+            "qual": "10-Diretor"
+          },
+          {
+            "nome": "CHRISTIAN MAUAD GEBARA",
+            "qual": "16-Presidente"
+          },
+          {
+            "nome": "RICARDO GUILLERMO HOBBS",
+            "qual": "10-Diretor"
+          }
+        ],
+        "logradouro": "AV ENGENHEIRO LUIZ CARLOS BERRINI",
+        "numero": "1376",
+        "municipio": "SAO PAULO",
+        "bairro": "CIDADE MONCOES",
+        "uf": "SP",
+        "cep": "04.571-936",
+        "email": "cadastro.fiscal.br@telefonica.com",
+        "telefone": "(11) 3430-4532",
+        "data_situacao": "30/11/2018",
+        "cnpj": "02.558.157/0001-62",
+        "ultima_atualizacao": "2025-08-28T19:28:08.962Z",
+        "status": "OK",
+        "fantasia": "",
+        "complemento": "",
+        "efr": "",
+        "motivo_situacao": "",
+        "situacao_especial": "",
+        "data_situacao_especial": "",
+        "capital_social": "60071415865.09",
+        "simples": {
+          "optante": false,
+          "data_opcao": null,
+          "data_exclusao": null,
+          "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+        },
+        "simei": {
+          "optante": false,
+          "data_opcao": null,
+          "data_exclusao": null,
+          "ultima_atualizacao": "2025-07-13T23:59:59.000Z"
+        },
+        "extra": {},
+        "billing": {
+          "free": true,
+          "database": true
+        }
+      },
+      "url": "https://www.receitaws.com.br/v1/cnpj/02558157000162"
+    }
+  ]
+}
